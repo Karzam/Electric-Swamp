@@ -6,7 +6,7 @@ package com.isartdigital.shmup.game.levelDesign
 	
 	/**
 	 * Classe mère des générateurs d'objets dans le levelDesign
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class GameObjectsGenerator extends MovieClip 
 	{

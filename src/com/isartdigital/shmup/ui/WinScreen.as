@@ -23,7 +23,7 @@ package com.isartdigital.shmup.ui
 	
 	/**
 	 * Ecran de Victoire (Singleton)
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class WinScreen extends EndScreen 
 	{

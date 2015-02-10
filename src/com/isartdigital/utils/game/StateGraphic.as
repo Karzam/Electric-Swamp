@@ -9,7 +9,7 @@ package com.isartdigital.utils.game {
 	 * Classe de base des objets interactifs ayant plusieurs états graphiques
 	 * Elle gère la représentation graphique (anim) et les conteneurs utiles au gamePlay (box) qui peuvent être de simples boites de collision ou beaucoup plus
 	 * suivant l'implémentation faite par le développeur dans les classes filles
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class StateGraphic extends GameObject 
 	{

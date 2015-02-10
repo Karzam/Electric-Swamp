@@ -6,7 +6,7 @@ package com.isartdigital.shmup.game.sprites
 	 * Classe Obstacle
 	 * Cette classe hérite de la classe StateGraphic elle possède donc une propriété anim représentation graphique
 	 * de l'obstacle et une propriété box servant de boite de collision de l'Obstacle
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Obstacle extends StateGraphic 
 	{

@@ -3,7 +3,7 @@ package com.isartdigital.shmup.controller
 	import flash.events.KeyboardEvent;
 	/**
 	 * Classe définissant ce que les controleurs doivent retourner aux objets qui les manipulent
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Controller 
 	{

@@ -12,7 +12,7 @@ package com.isartdigital.shmup.ui
 	
 	/**
 	 * Ecran d'aide
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Help extends Screen 
 	{

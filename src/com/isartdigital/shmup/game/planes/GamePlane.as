@@ -9,7 +9,7 @@ package com.isartdigital.shmup.game.planes
 	
 	/**
 	 * Classe "plan de jeu", elle contient tous les éléments du jeu, Generateurs, Player, Ennemis, shoots...
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class GamePlane extends HorizontalScrollingPlane 
 	{

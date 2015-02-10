@@ -2,7 +2,7 @@ package com.isartdigital.utils.ui
 {
 	/**
 	 * Classe stockant des constantes utilisées pour le repostionnement des éléments à l'écran en fonction du format du jeu
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class UIPosition 
 	{

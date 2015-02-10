@@ -7,7 +7,7 @@ package com.isartdigital.utils {
 	 * Classe de configuration
 	 * Cette classe contient toutes les variables définies dans le fichier config.xml sous forme de propriétés statiques typées.
 	 * Certaines variables existent qu'elles aient été définies ou non dans le fichier. Si elles n'ont pas été définies elles prennent la valeur par défaut de la classe
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Config 
 	{

@@ -3,7 +3,7 @@ package com.isartdigital.shmup.ui.help {
 	
 	/**
 	 * Affiche l'aide Clavier
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class HelpKeyboard extends Sprite 
 	{

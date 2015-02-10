@@ -10,7 +10,7 @@ package com.isartdigital.shmup.ui
 	
 	/**
 	 * Ecran principal
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class TitleCard extends Screen
 	{

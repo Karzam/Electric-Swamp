@@ -23,7 +23,7 @@ package com.isartdigital.shmup.ui
 	
 	/**
 	 * Classe Game Over (Singleton)
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class GameOver extends EndScreen 
 	{

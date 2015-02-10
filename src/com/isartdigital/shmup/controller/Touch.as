@@ -13,7 +13,7 @@ package com.isartdigital.shmup.controller
 	
 	/**
 	 * Controleur Touch
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Touch extends Controller
 	{

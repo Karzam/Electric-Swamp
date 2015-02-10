@@ -14,7 +14,7 @@ package com.isartdigital.shmup.game.planes
 	 * Classe "Plan de scroll", chaque plan de scroll (y compris le GamePlane) est une instance de HorizontalScrollingPlane ou d'une classe fille de HorizontalScrollingPlane
 	 * TODO: A part GamePlane, toutes les instances de HorizontalScrollingPlane contiennent 3 MovieClips dont il faut gérer le "clipping" afin de les faire s'enchainer correctement
 	 * alors que l'instance de HorizontalScrollingPlane se déplace
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 
 

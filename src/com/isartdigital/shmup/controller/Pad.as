@@ -6,7 +6,7 @@ package com.isartdigital.shmup.controller
 	
 	/**
 	 * Controleur Pad
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Pad extends Controller 
 	{

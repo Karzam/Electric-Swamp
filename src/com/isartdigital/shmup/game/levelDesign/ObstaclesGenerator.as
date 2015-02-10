@@ -5,7 +5,7 @@ package com.isartdigital.shmup.game.levelDesign
 	import flash.utils.getQualifiedClassName;
 	/**
 	 * Classe qui permet de générer des Obstacles dans le GamePlane
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class ObstaclesGenerator extends GameObjectsGenerator 
 	{

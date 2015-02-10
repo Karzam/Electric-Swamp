@@ -9,7 +9,7 @@ package com.isartdigital.utils.text
 	/**
 	 * Classe permettant de gérer des textes localisés
 	 * Chaque instance de la classe contient un champ texte dont le contenu est automatiquement mis à jour à la création de l'instance 
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class LocalizedTextField extends Sprite 
 	{

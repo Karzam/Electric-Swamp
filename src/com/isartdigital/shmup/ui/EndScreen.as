@@ -9,7 +9,7 @@ package com.isartdigital.shmup.ui
 	
 	/**
 	 * Classe mère des écrans de fin
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class EndScreen extends Screen 
 	{

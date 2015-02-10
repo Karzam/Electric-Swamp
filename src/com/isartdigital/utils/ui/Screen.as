@@ -8,7 +8,7 @@ package com.isartdigital.utils.ui {
 	/**
 	 * Classe d'Ecran
 	 * Toutes Ecrans d'interface héritent de cette classe
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Screen extends Sprite 
 	{

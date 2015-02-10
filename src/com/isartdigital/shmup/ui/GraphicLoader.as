@@ -6,7 +6,7 @@
 	
 	/**
 	 * Preloader Graphique (fichier Shmup.fla)
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class GraphicLoader extends Screen 
 	{

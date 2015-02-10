@@ -4,7 +4,7 @@ package com.isartdigital.utils.events {
 
 	/**
 	 * Classe d'Evenements de chargement associée à la classe AssetsLoader
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public final class AssetsLoaderEvent extends Event {
 		

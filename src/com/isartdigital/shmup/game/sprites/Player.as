@@ -21,7 +21,7 @@ package com.isartdigital.shmup.game.sprites
 	/**
 	 * Classe du joueur (Singleton)
 	 * En tant que classe héritant de StateGraphic, Player contient un certain nombre d'états définis par les constantes LEFT_STATE, RIGHT_STATE, etc.
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Player extends StateGraphic
 	{

@@ -15,7 +15,7 @@ package com.isartdigital.utils.sound
 	 * Classe simplifiée pour la manipulation de sons contenus dans des swfs chargés (pas de son externes)
 	 * Gère un ENTER_FRAME interne pour une utilisation simplifiée
 	 * N'a pas besoin d'être ajouté à la gameLoop mais les sons ne seront pas associés à la pause du jeu.
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class SoundFX extends EventDispatcher
 	{

@@ -10,7 +10,7 @@ package com.isartdigital.shmup.ui {
 	
 	/**
 	 * Manager (Singleton) en charge de gérer les écrans d'interface
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class UIManager 
 	{

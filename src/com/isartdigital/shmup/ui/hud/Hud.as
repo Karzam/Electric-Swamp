@@ -18,7 +18,7 @@ package com.isartdigital.shmup.ui.hud
 	
 	/**
 	 * Classe en charge de gérer les informations du Hud
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Hud extends Screen 
 	{

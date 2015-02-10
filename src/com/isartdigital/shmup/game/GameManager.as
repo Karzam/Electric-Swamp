@@ -28,7 +28,7 @@ package com.isartdigital.shmup.game {
 	
 	/**
 	 * Manager (Singleton) en charge de gérer le déroulement d'une partie
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class GameManager
 	{

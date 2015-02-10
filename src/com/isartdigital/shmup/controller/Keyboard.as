@@ -10,7 +10,7 @@ package com.isartdigital.shmup.controller
 	
 	/**
 	 * Controleur clavier
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Keyboard extends Controller
 	{	

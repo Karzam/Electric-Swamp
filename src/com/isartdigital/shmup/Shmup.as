@@ -29,7 +29,7 @@ package com.isartdigital.shmup
 	 * Classe initiale du Shmup associée au fichier Shmup.fla
 	 * Est en charge d'assurer le chargement des fichiers de configuration et
 	 * des premières ressources du jeu
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class Shmup extends MovieClip 
 	{

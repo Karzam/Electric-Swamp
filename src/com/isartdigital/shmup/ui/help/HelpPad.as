@@ -4,7 +4,7 @@ package com.isartdigital.shmup.ui.help
 	
 	/**
 	 * Affiche l'aide Pad
-	 * @author Mathieu ANTHOINE
+	 * @author Baptiste MENARD
 	 */
 	public class HelpPad extends Sprite 
 	{
